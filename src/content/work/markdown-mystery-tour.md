@@ -1,35 +1,36 @@
 ---
-title: Markdown Mystery Tour
+title: Java Aprendendo
 publishDate: 2020-03-02 00:00:00
 img: /assets/stock-1.jpg
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+ Projeto onde eu mostro todo o meu caminho da aprendizagem na Linguagem java
 tags:
-  - Design
+  - Java
   - Dev
-  - User Testing
+  - Estudante
 ---
 
-## Level-two heading
+## Java Devoloper
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+> Conheça todo o meu trajeto de conhecimentos na Linguagem Java
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+O primeiro passo é aprender a sintaxe básica da linguagem, como variáveis, tipos de dados, estruturas de controle (condicionais e loops), e introdução à programação orientada a objetos (POO).
 
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
+### Programação Orientada a Objetos
 
-### Level-three heading
+Após dominar esses conceitos, é importante aprofundar-se em POO, aprendendo sobre classes, objetos, herança, polimorfismo e encapsulamento. Em seguida, a trilha pode avançar para o uso de Collections Framework (listas, mapas, conjuntos) e o tratamento de exceções.
 
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
+### JDBC
 
-### Level-three heading
+A partir daí, o próximo estágio envolve trabalhar com bancos de dados e JDBC para conectar aplicações Java a bases de dados relacionais. O conhecimento em APIs e Web Services (REST e SOAP) também é fundamental para o desenvolvimento de aplicações web e integração com outros sistemas.
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+#### FrameWorks
+ explorar frameworks populares como Spring e Hibernate ajudará a desenvolver aplicações empresariais robustas e escaláveis. O estudo de ferramentas de automação e práticas como Testes Unitários (JUnit) e controle de versões (Git) também são importantes para se tornar um desenvolvedor Java completo.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+- Aprendizagem
+- Java Devolper
+- 5 Meses de Aprendizagem
+- Git & GitHub
+- Conheça meu Proejeto Em Java: https://github.com/WillianRD/maratona-java
 
-#### Level-four heading
-
-- We noted this
-- And also this other point

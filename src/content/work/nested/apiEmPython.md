@@ -1,12 +1,12 @@
 ---
 title: API Em Python
 publishDate: 2020-03-04 00:00:00
-img: /assets/backgrounds/python.jpeg
+img: /assets/backgrounds/api.png
 img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
   API -  Application Programming Interface
 tags:
- - API
+ -  API -  Application Programming Interface
  - Python3
  - Developer
 ---

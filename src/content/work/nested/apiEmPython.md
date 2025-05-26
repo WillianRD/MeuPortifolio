@@ -20,4 +20,4 @@ Eu & um amigo Desevolvemos uma API robusta para gestão de produtos de hortifrú
 - Controle de estoque em tempo real, permitindo o cálculo de reabastecimento com base em níveis mínimos configuráveis.  
 - Integração com banco de dados relacional para armazenar e organizar os produtos de forma estruturada.  
 
-A API também foi projetada para ser extensível, permitindo futuras implementações, como relatórios de vendas, análise de validade e integração c
+A API também foi projetada para ser extensível, permitindo futuras implementações, como relatórios de vendas, análise de validade e integração

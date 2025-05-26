@@ -1,7 +1,7 @@
 ---
 title: Projeto Livraria 
 publishDate: 2025-05-25 00:00:00
-img: public\assets\Livraria-page.png
+img: \assets\Livraria-page.png
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
  Livraria Lumuns
